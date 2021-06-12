@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="387.07575"
+     inkscape:cy="539.75563"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g40658"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox="false"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid33713" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="689.82429"
+       y="501.81607"
+       width="327.63198"
+       height="255.74648"
+       id="rect14935" />
+    <rect
+       x="264.04096"
+       y="539.14123"
+       width="164.5072"
+       height="71.885497"
+       id="rect12795" />
+    <rect
+       x="-391.22299"
+       y="382.92851"
+       width="485.22711"
+       height="373.25162"
+       id="rect5111" />
+    <rect
+       x="176.94892"
+       y="678.76498"
+       width="223.95097"
+       height="107.82825"
+       id="rect749" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter32099"
+       x="-0.0034254359"
+       y="-0.005980894"
+       width="1.0078593"
+       height="1.0137225">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.16421591"
+         id="feGaussianBlur32101" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g30976"
+       style="opacity:0.961;mix-blend-mode:normal;stroke:#ffffff;stroke-opacity:1;filter:url(#filter32099)"
+       transform="translate(20.482763,10.972906)">
+      <g
+         id="g34025"
+         transform="translate(-3.7931034,-92.931034)">
+        <g
+           id="g40658"
+           style="stroke:#c5af11;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <rect
+             style="fill:#ffd5e5;stroke:#c5af11;stroke-width:5.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58461541;fill-opacity:1"
+             id="rect135"
+             width="109.87562"
+             height="63.423645"
+             x="40.965519"
+             y="98.390396" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.68190811,0,0,0.70475005,-421.0187,-247.93812)"
+             id="text14933"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Stencil;-inkscape-font-specification:Stencil;white-space:pre;shape-inside:url(#rect14935);display:inline;fill:#550022;fill-opacity:1;stroke:#ffffff;stroke-width:1.00975859;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+               x="689.82422"
+               y="609.81641"
+               id="tspan42968">App</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.3359374,-0.02458657,0.0219508,0.37627554,129.70797,-85.024903)"
+             id="text5109"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:213.333px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;white-space:pre;shape-inside:url(#rect5111);fill:#2b0011;fill-opacity:1;stroke:#ffffff;stroke-width:0.84200357;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+               x="-391.22266"
+               y="580.01716"
+               id="tspan42972"><tspan
+                 style="font-family:'Brush Script MT';-inkscape-font-specification:'Brush Script MT'"
+                 id="tspan42970">Money</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
